@@ -1,3 +1,3 @@
 # Paint-App
 
-Live ---- abhishek12-paintapp.netlify.app
+Live ---- https://abhishek12-paintapp.netlify.app/
